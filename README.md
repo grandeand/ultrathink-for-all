@@ -149,4 +149,4 @@ MIT
 
 ## 🙏 Credits
 
-Inspired by [Claude Code's extended thinking mode](https://docs.anthropic.com/en/docs/claude-code) by Anthropic.
+Inspired by [Claude Code's extended thinking mode](https://platform.claude.com/docs/en/build-with-claude/extended-thinking) by Anthropic.

@@ -149,4 +149,4 @@ MIT
 
 ## 🙏 Teşekkürler
 
-Anthropic'in [Claude Code genişletilmiş düşünme modu](https://docs.anthropic.com/en/docs/claude-code)'ndan esinlenilmiştir.
+Anthropic'in [Claude Code genişletilmiş düşünme modu](https://platform.claude.com/docs/en/build-with-claude/extended-thinking)'ndan esinlenilmiştir.
