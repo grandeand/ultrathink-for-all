@@ -1,7 +1,7 @@
 # Ultrathink for All - Windows Installation Script
-# https://github.com/YOUR_USERNAME/ultrathink-for-all
+# https://github.com/grandeand/ultrathink-for-all
 
-$RepoUrl = "https://raw.githubusercontent.com/YOUR_USERNAME/ultrathink-for-all/main"
+$RepoUrl = "https://raw.githubusercontent.com/grandeand/ultrathink-for-all/main"
 $Installed = @()
 
 Write-Host "🚀 Ultrathink for All - Installer" -ForegroundColor Blue

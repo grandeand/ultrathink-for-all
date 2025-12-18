@@ -1,11 +1,11 @@
 #!/bin/bash
 
 # Ultrathink for All - Installation Script
-# https://github.com/YOUR_USERNAME/ultrathink-for-all
+# https://github.com/grandeand/ultrathink-for-all
 
 set -e
 
-REPO_URL="https://raw.githubusercontent.com/YOUR_USERNAME/ultrathink-for-all/main"
+REPO_URL="https://raw.githubusercontent.com/grandeand/ultrathink-for-all/main"
 GREEN='\033[0;32m'
 BLUE='\033[0;34m'
 YELLOW='\033[1;33m'

@@ -17,12 +17,12 @@ Bring Claude Code's `/think`, `/think-harder`, and `/ultrathink` commands to eve
 
 ### macOS / Linux
 ```bash
-curl -fsSL https://raw.githubusercontent.com/YOUR_USERNAME/ultrathink-for-all/main/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/grandeand/ultrathink-for-all/main/install.sh | bash
 ```
 
 ### Windows (PowerShell)
 ```powershell
-irm https://raw.githubusercontent.com/YOUR_USERNAME/ultrathink-for-all/main/install.ps1 | iex
+irm https://raw.githubusercontent.com/grandeand/ultrathink-for-all/main/install.ps1 | iex
 ```
 
 ## Manual Installation
