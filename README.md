@@ -14,7 +14,7 @@
 
 ## 🧠 What is This?
 
-**Ultrathink for All** brings [Claude Code's extended thinking](https://docs.anthropic.com/en/docs/claude-code) commands to **every AI-powered code editor**.
+**Ultrathink for All** brings [Claude Code's extended thinking](https://platform.claude.com/docs/en/build-with-claude/extended-thinking) commands to **every AI-powered code editor**.
 
 In Claude Code, keywords like `think`, `think harder`, and `ultrathink` trigger the AI to allocate more "thinking tokens" - spending more time reasoning through problems before answering. This leads to better solutions for complex problems.
 

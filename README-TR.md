@@ -14,7 +14,7 @@
 
 ## 🧠 Bu Nedir?
 
-**Ultrathink for All**, [Claude Code'un genişletilmiş düşünme](https://docs.anthropic.com/en/docs/claude-code) komutlarını **tüm AI destekli kod editörlerine** getirir.
+**Ultrathink for All**, [Claude Code'un genişletilmiş düşünme](https://platform.claude.com/docs/en/build-with-claude/extended-thinking) komutlarını **tüm AI destekli kod editörlerine** getirir.
 
 Claude Code'da `think`, `think harder` ve `ultrathink` gibi anahtar kelimeler, AI'ın daha fazla "düşünme token'ı" ayırmasını sağlar - cevap vermeden önce problem üzerinde daha uzun süre düşünür. Bu, karmaşık problemler için daha iyi çözümler üretir.
 
